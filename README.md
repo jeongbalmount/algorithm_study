@@ -176,8 +176,9 @@
   ~~~
 </details>
 
+# 큐
 <details>
-  <summary> 문제2 </summary>
+  <summary> 문제1 </summary>
   
   1. 문제 설명
   ~~~
