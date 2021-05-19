@@ -6,7 +6,7 @@ def solution(numbers):
 
     # 조합으로 리스트 만듬
     permutation_list = list(map(''.join, permutations(numbers)))
-
+    print(permutation_list)
     # 조합 리스트에 numbers 각자 원소 더하기
     permutation_list += items
 
